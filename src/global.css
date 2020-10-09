@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: rgb(17, 18, 19);
+  background-size: 100% 100%;
+  font: 14px sans-serif;
+  -webkit-font-smoothing: antialiased !important;
+  min-height: 100vh;
+  color: #fff;
+}
+
+a:hover {
+  color: cadetblue!important;
+}
+
+button:hover {
+  color: turquoise!important;
+}
