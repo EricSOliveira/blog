@@ -4,14 +4,7 @@ import 'firebase/auth';
 import 'firebase/storage';
 
 let firebaseConfig = {
-  apiKey: "AIzaSyB0T7BrXG42ypxrGe4nexAaraaOwF_uE5U",
-  authDomain: "blog-1f6cb.firebaseapp.com",
-  databaseURL: "https://blog-1f6cb.firebaseio.com",
-  projectId: "blog-1f6cb",
-  storageBucket: "blog-1f6cb.appspot.com",
-  messagingSenderId: "715983114150",
-  appId: "1:715983114150:web:0e82b74dc0c5b03f920967",
-  measurementId: "G-ZX29D4631Q"
+  // Your firebaseConfig here
 };
 
 class Firebase{
