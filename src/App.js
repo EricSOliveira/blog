@@ -11,7 +11,6 @@ import Register from './components/Register';
 import New from './components/New';
 import Edit from './components/Edit';
 
-
 function App() {
 
   const [state, setState] = useState({
